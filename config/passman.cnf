@@ -4,11 +4,11 @@
   <record javaclass="com.wm.data.ISMemDataImpl">
     <value name="DataStoreClass">com.webmethods.sc.security.passman.impl.datastore.DefaultDataStore</value>
     <record name="DataStoreParams" javaclass="com.wm.data.ISMemDataImpl">
-      <value name="fileName">C:\Work\Installation\ServiceDesigner_11\wMServiceDesigner-11.0-Preview-R01-win-x64-JDK\wMServiceDesigner\IntegrationServer\bin\..\packages\PRKTest\config\txnPassStore.dat</value>
+      <value name="fileName">/opt/IntegrationServer/bin/../packages/PRKTest/config/txnPassStore.dat</value>
     </record>
     <value name="MasterPasswordClass">com.webmethods.sc.security.passman.impl.masterpw.entrust.EntrustMasterPassword</value>
     <record name="MasterPwParams" javaclass="com.wm.data.ISMemDataImpl">
-      <value name="fileName">C:\Work\Installation\ServiceDesigner_11\wMServiceDesigner-11.0-Preview-R01-win-x64-JDK\wMServiceDesigner\IntegrationServer\bin\..\packages\PRKTest\config\empw.dat</value>
+      <value name="fileName">/opt/IntegrationServer/bin/../packages/PRKTest/config/empw.dat</value>
       <value name="repeatLimit">4</value>
     </record>
     <record name="EncryptorInfo" javaclass="com.wm.data.ISMemDataImpl">
