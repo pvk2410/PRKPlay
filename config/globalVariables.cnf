@@ -4,13 +4,513 @@
   <record javaclass="com.wm.data.ISMemDataImpl">
     <array name="globalVariables" type="record" depth="1">
       <record javaclass="com.wm.data.ISMemDataImpl">
-        <value name="key">passField</value>
-        <value name="value">gvhandle.passField</value>
-        <value name="isSecure">true</value>
+        <value name="key">NBKPuffinServices.services.pub_deLinkDevice</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
-        <value name="key">passFieldNormal</value>
-        <value name="value">manage</value>
+        <value name="key">NBKVisaServices.services_retrieveTokenInfo</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessCustomer.services.pub_processCustomer</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_SoSummaryInq_000947</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.pub_getRecurringTransferDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPWCServices.services.pub_addPrePaidCardTransaction</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessCustomer.services.pub_checkCustomerName</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_postPayment</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKeNetServices.services.pub_processServiceByTemp</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPWCServices.services.ws_inquireCurrencyConversionSimulation</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderPayment.services.pub_inquireCurrencyConversion</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_currencyConversionForPWC</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">performCodeConversion_isLogEnabled</value>
+        <value name="value">Yes</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPACIServices.services.pub_inquirePersonDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderCustomer.services.pub_inquireCivilIdDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_getDepUnifiedDetails_000494</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderPayment.services.pub_addAccountTransaction</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_processCrediCardPayment</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_depNPBCreditAdj_1030</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_limitCheckRequired</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_loanRePmtScheduleInqMore</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_depAcctCreate_002000</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderProduct.services.pub_inquireDepositAccount</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessNotificationV2.services.pub_getSubscriptionDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_inquireCalendarDetails_01086</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.pub_getCalendarDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_depNpbFundTransfer_1045</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKECIFServices.services.pub_updateCustomerAPI</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderProduct.services.priv_inquireBrokerage</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBASServices.services.pub_inquireGiftDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPACIServices.services.pub_inquireExpiryDate</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPuffinServicesV2.services.pub_subscribeCustomer</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_swiftCreate_20603</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKVMXServices.services.pub_addCreditCardTransaction</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderProduct.services.pub_addIBANValidation</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessProduct.services.pub_createIBANValidation</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKLMSServices.services.pub_consumeFeatureRule</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKNotificationServices.services.pub_createSubscription</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessSecurity.services.pub_createMessageToken</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKLMSServices.services.pub_getFeatureRuleValidateLMSServices</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBase24Services.services.pub_addDebitCardPinValidate</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_custGenDetailsMod_067000</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_depXferToAcctCls_3045</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_postSimulation</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKeNetServices.services.pub_inquireBillPresentment</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_addBancsCheckBookOrderDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKeNetServices.services.pub_insertTempTransaction</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKODSServices.services.pub_getBaNCSCustomOriginalDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBase24Services.services.pub_addCardPinValidate</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKeChannelServices.services.pub_addCustomerAuthentication</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessInstrument.services.pub_createDebitCardReplacement</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPACIServices.services.pub_inquireCivilIdDetails</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessInstrument.services.pub_createDebitCardPin</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPWCServices.services.pub_addDebitCardPin</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKPWCServices.services.pub_replaceCard</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKSafeWatchServices.services.pub_inquireCustomerNameCheck</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_inquireDepositAccountPendingTransactionVisaHoldPrompt</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderCustomer.services.pub_inquireCustomerNameCheck</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKKnetServices.services.pub_addOathDevice</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKKnetServices.services.pub_addUser</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBancsServices.services.pub_soTransferToIntrnAcctRemove_000970</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_deleteRecurringTransfer</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessPayment.services.priv_processLimitsForExternalTransfer</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessCustomer.services.pub_checkCustomerBackground</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKCmrCustomer.services.priv_checkCustomerBackground</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderCustomer.services.pub_inquireCustomerBackgroundCheck</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessProduct.services.pub_updateDepositAccount</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKProviderProduct.services.pub_modifyDepositAccount</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">NBKBusinessNotification.services.pub_deLinkDevice</value>
+        <value name="value">NO_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ServiceIOLogging_connectionAliasName</value>
+        <value name="value">NBKCommonESBJMSNoCA</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ServiceIOLogging_destinationName</value>
+        <value name="value">ServiceIOLogging</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ServiceIOLogging_destinationType</value>
+        <value name="value">TOPIC</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">StepLogging_connectionAliasName</value>
+        <value name="value">NBKCommonESBJMSNoCA</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">StepLogging_destinationName</value>
+        <value name="value">StepLogging</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">StepLogging_destinationType</value>
+        <value name="value">TOPIC</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">StepLogging_useCSQ</value>
+        <value name="value">False</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ExceptionLogging_connectionAliasName</value>
+        <value name="value">NBKCommonESBJMSNoCA</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ExceptionLogging_destinationName</value>
+        <value name="value">ExceptionLogging</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ExceptionLogging_destinationType</value>
+        <value name="value">TOPIC</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ExceptionLogging_useCSQ</value>
+        <value name="value">True</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Default_Step_Logging_Enabled</value>
+        <value name="value">No</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Default_Step_Logger_Name</value>
+        <value name="value">WARN_LOGGER</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ERROR_LOGGER</value>
+        <value name="value">1</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">WARN_LOGGER</value>
+        <value name="value">2</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">INFO_LOGGER</value>
+        <value name="value">3</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">DEBUG_LOGGER</value>
+        <value name="value">4</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">TRACE_LOGGER</value>
+        <value name="value">5</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ERROR</value>
+        <value name="value">1</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">WARN</value>
+        <value name="value">2</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">INFO</value>
+        <value name="value">3</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">DEBUG</value>
+        <value name="value">4</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">TRACE</value>
+        <value name="value">5</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_1</value>
+        <value name="value">Salary Posting BANCs Request,Limit exceeeded in limit validation,Invalid Qr data or request not found,No Accounts Found,No Data Found while fetching swift details Inward,No Data Found while fetching swift details OutwardTT,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_2</value>
+        <value name="value">No data retrived from ODS - getBaNCSCustomOriginalDetails,No records found,No Accounts Found,LOB layer: Data not retrieved from ODS,Product not found,No postpaid data is found,Invalid Expiry date,Service Not Night Enabled,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_3</value>
+        <value name="value">Customer Background check -Rejected,Invalid CivilNo,Authorize Cache data logging,No Data Found while fetching swift ,details Inward,No Data Found while fetching swift details OutwardTT,No Matching Record Found in ODS System,Customer Name check -Rejected,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_4</value>
+        <value name="value">PWC EOD Time,InValid CVV,No matching Account Details found,Insufficient Fund,CARD IN PRODUCTION PROCESS,IBAN is not valid,LimitRuleViolation,PWC EOD Time,Insufficient funds,No CVM Methods Found,Excess For CC,No Records Found,Incorrect PIN,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_5</value>
+        <value name="value">Logging response data,Logging for push notification subscription,No ProfileId Found,Monthly max. reload amount exceeded,No Matching Records Found,Account Unclaimed,NoMatchingRecords,Blocked,AVAILABLE BALANCE IS LESS THAN THE TRANSFER AMOUNT,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_6</value>
+        <value name="value">Invalid Check Digit,MaximumDailyHits Exceeded,Insufficient fund. Supervisor override is required to overdraw account,NoDatafoundforHPS,No matching Products found,Customer Number Not available for caching.,Invalid IBAN number check digit passed,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_7</value>
+        <value name="value">CARD NOT EXIST,Customer Already Assigned a Package,Record Not Found,Daily max. reload amount exceeded,NO SUCH ACCOUNT OR INCORRECT TYPE OF ACCOUNT,tokenSearchSuccessLog,tokenSuspendSuccessLog,tokenUnsuspendSuccessLog,tokenDeleteSuccessLog,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_8</value>
+        <value name="value">tokenUpdateSuccessLog,No Records found,No records found for the input data,Conflict,Load limit exceeded,Invalid result received from LMS,Salary Notification to SLP Success,UAE card email,No payment found,SuccessLoginPWCCustomerUpdate,Delink Payload,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_9</value>
+        <value name="value">OperationnotpremittedexpiredCard,SuccessLoginPWCCustomerUpdate,Yearly number reload exceeded,OperationnotpremittedexpiredCard,RecordNotFound,Customer already exist in ECIF,Operationnotpremittedcancelled Card,Lost Card,Card Inactive,</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">BusinessError_10</value>
+        <value name="value">Transaction limit exceeded,Operationnotpremittedexpired Card</value>
         <value name="isSecure">false</value>
       </record>
     </array>
